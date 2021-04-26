@@ -18,6 +18,7 @@
 - Jest
 - Unix
 - Bootstrap
+- Redux
 
 <!--
 - 🔭 I’m currently working on ...
