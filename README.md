@@ -6,7 +6,7 @@
 #### Me chamo Saulo Kirchmaier Teixeira, sou estudante de desenvolvimnento web fullstack
 
 - 🌱 Atualmente estou estudando na [Trybe](https://www.betrybe.com/), e este é meu [repositório de exercícios](https://github.com/saulokirchmaier/trybe-exercies) feitos durante o curso.
-- 🔭 Conheça um pouco dos meus trabalhos no meu [portifólioi](https://saulokirchmaier.github.io/)
+- 🔭 Conheça um pouco dos meus trabalhos no meu [portfólioi](https://saulokirchmaier.github.io/)
 - 🚀 Me siga no [LinkedIn](https://www.linkedin.com/in/saulokirchmaier/)
 
 ##### Stacks
@@ -19,6 +19,9 @@
 - Unix
 - Bootstrap
 - Redux
+- Node
+- MySQL
+- MongoDB
 
 <!--
 - 🔭 I’m currently working on ...
