@@ -81,7 +81,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saulokirchmaier&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=saulokirchmaier&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=saulokirchmaier&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
 ###
