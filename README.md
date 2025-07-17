@@ -6,20 +6,18 @@
 
 ###
 
-<h1 align="left">Hello there!</h1>
+<h1 align="left">Hello there! 👋</h1>
 
 ###
 
-<h2 align="left">I'm Saulo Kirchmaier Teixeira 👋</h2>
+<h2 align="left">I'm Saulo Kirchmaier Teixeira</h2>
 
 ###
 
 <h6 align="left">Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a strong focus on creating robust, scalable, and user-centric web and mobile applications. My expertise spans across modern JavaScript frameworks, backend technologies, and database management, allowing me to build solutions from conception to deployment.<br><br>I'm always open to collaborating on interesting projects or discussing new opportunities. Feel free to reach out!</h6>
 
-###
-
 <div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzV4YWxzeXd6M294aDR2dnhsMzVycGlra204cHRmcTNmMzg3MTQwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IPWXYMP4t2ODvzwOYk/giphy.gif"  />
+  <img width="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzV4YWxzeXd6M294aDR2dnhsMzVycGlra204cHRmcTNmMzg3MTQwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IPWXYMP4t2ODvzwOYk/giphy.gif" />
 </div>
 
 ###
@@ -50,7 +48,7 @@
 
 <h6 align="left">Here's a snapshot of the technologies and tools I frequently work with:</h6>
 
-- **Frontend:** Javascript , React , Next.js , React Native , Redux , Zustand , Typescript , Expo , HTML , CSS 
+- **Frontend:** Javascript , React , Next.js , React Native , Redux , Zustand , Typescript , Expo , HTML , CSS , Tailwind
     
 - **Backend:** Node.js , NestJS , ExpressJS , Go , Python 
 
@@ -60,39 +58,12 @@
 
 - **Other:** N8N , Make
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,javascript,nodejs,react,typescript,nextjs,tailwind,html,css,materialui,nestjs,express,mongodb,postgres,supabase" />
+    <img src="https://skillicons.dev/icons?i=firebase,mysql,jest,cypress,docker,go,python" />
+  </a>
+</p>
 
 ###
 
@@ -102,6 +73,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saulokirchmaier&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=false&order=2" height="200" alt="languages graph"  />
+</div>
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=saulokirchmaier&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
